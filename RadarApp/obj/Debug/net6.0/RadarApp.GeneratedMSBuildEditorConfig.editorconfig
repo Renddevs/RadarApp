@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RadarApp
-build_property.ProjectDir = D:\Project\login-net\RadarApp\RadarApp\
+build_property.ProjectDir = D:\Project\RadarApp\RadarApp\
